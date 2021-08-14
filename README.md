@@ -28,5 +28,13 @@ Alternate Code!
 npx create-react-app {app-name}
 ```
 
+# Run project
+
+To run your project you must iniciate your script with:
+```bash
+npm start
+```
+
+
 #### Note
 All folders are projects! 
