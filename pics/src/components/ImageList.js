@@ -6,6 +6,7 @@ import ImageCard from './ImageCard';
 
 const ImageList = (props) =>{
     const images = props.images.map((image) =>{
+        console.log('doing it');
         return <ImageCard key={image.id} image ={image}/>
     })
     return (

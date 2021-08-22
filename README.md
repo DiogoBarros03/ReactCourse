@@ -37,6 +37,7 @@ npm start
 
 # Axios Projects
 Projects that contain axios need to run the following command.
+
 **ALERT**: This need to installed inside every project that have axios.
 ```bash
 npm install --save axios
